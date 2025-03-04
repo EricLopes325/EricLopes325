@@ -1,6 +1,6 @@
 ## Olá, seja muito bem-vindo(a) ✌️🔥
 
-- 🔓 No momento estou em busca da minha primeira oportunidade em TI
+- 🔓 No momento estou em busca da minha primeira oportunidade na área de tecnologia
 - 📖 Estou realizando uma graduação na universidade São Fransisco (USF) em Análise e desenvolvimento de sistemas.
 
 
