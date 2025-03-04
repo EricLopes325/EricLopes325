@@ -1,13 +1,15 @@
 ## Olá, seja muito bem-vindo(a) ✌️🔥
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Eric+Lopes;Sou+desenvolvedor+web+%3A)" alt="Typing SVG" /></a>
+
 - 🔓 No momento estou em busca da minha primeira oportunidade na área de tecnologia
 - 📖 Estou realizando uma graduação na universidade São Fransisco (USF) em Análise e desenvolvimento de sistemas.
 
-
+##
 <div>
   <a href="https://github.com/EricLopes325">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricLopes325&layout=donut-vertical&theme=dark">
-     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=EricLopes325&show_icons=true&theme=dark">
+     <img heigth="180em" width="700em" src="https://github-readme-stats.vercel.app/api?username=EricLopes325&show_icons=true&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
