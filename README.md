@@ -1,7 +1,7 @@
-## Olá, Eu sou o Eric Lopes !! 
+## Olá, seja muito bem-vindo(a) ✌️🔥
 
-- 🔭 No momento estou em busca da minha primeira oportunidade em TI
-- 🌱 Estou realizando uma graduação na universidade São Fransisco (USF) em Análise e desenvolvimento de sistemas.
+- 🔓 No momento estou em busca da minha primeira oportunidade em TI
+- 📖 Estou realizando uma graduação na universidade São Fransisco (USF) em Análise e desenvolvimento de sistemas.
 
 
 <div>
