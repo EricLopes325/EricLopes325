@@ -1,6 +1,6 @@
 ## Olá, seja muito bem-vindo(a) ✌️🔥
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Eric+Lopes;Sou+Dev+Full+Stack+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Eric+Lopes;Sou+Dev+Back+-+End+%3A)" alt="Typing SVG" /></a>
 
 - 🔓 No momento estou em busca da minha primeira oportunidade na área de tecnologia
 - 📖 Estou realizando uma graduação na universidade São Fransisco (USF) em Análise e desenvolvimento de sistemas.
